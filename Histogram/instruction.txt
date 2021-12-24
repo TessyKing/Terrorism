@@ -1,0 +1,36 @@
+文件名：Globalterrorism_histogram 根据世界地区国家划分
+列名：
+Range：区域划分，分为全世界所有WholeWorld，按地区划分CertainRegion，按国家划分CertainCountry
+subRange：在Range为WholeWorld没有意义，是全部地区按年分组；在Range为CertainRegion时是具体的地区；在Range为CertainCountry时是具体的国家
+year：年份，以下表格中相同
+nkill：被杀死的人数，以下表格中相同
+nwound：受伤人数，以下表格中相同
+nkillter：被杀死恐怖分子数，以下表格中相同
+nwoundter：受伤的恐怖分子数，以下表格中相同
+nattacks：攻击总数，以下表格中相同
+
+
+
+文件名：Globalterrorism_histogramgname 根据恐怖集团划分
+列名：
+gname：恐怖分子集团名称
+year，nkill，nwound，nkillter，nwoundter，nattacks
+
+
+文件名：Globalterrorism_histogramattacktype 根据攻击类型划分
+列名：
+attacktype：攻击类型名称
+year，nkill，nwound，nkillter，nwoundter，nattacks
+
+文件名：Globalterrorism_histogramweapontype 根据攻击类型划分
+列名：
+weapontype：攻击武器类型名称
+year，nkill，nwound，nkillter，nwoundter，nattacks
+
+文件名：Globalterrorism_histogramtargettype 根据攻击对象划分
+列名：
+targettype：攻击对象类型名称
+year，nkill，nwound，nkillter，nwoundter，nattacks
+
+
+
